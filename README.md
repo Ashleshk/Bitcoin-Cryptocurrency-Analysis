@@ -1,4 +1,5 @@
-# Exploring-the-Bitcoin-Cryptocurrency-Market
+# Bitcoin Cryptocurrency Analysis 
+Exploratory Data Analysis (EDA) project
 
 ## Objective: 
 To better understand the growth and impact of Bitcoin and other cryptocurrencies. 
